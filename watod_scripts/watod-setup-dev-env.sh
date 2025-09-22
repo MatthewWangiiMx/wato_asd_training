@@ -1,5 +1,4 @@
 #!/bin/bash
-
 SERVICE_NAME=$1
 
 echo "Starting dependency mount"
